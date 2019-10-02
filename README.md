@@ -7,7 +7,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <style>
-a:link, a:visited {
+  a:link, a:visited {
   background-color: #f44336;
   color: white;
   padding: 15px 25px;
@@ -16,18 +16,11 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
-  background-color: red;
-}
+
 </style>
 </head>
-<div class="container">
-  
-  <button type="button" class="btn btn-primary">go</button>
-       
-</div>
-<h2>Link Button</h2>
+
 <p>A link styled as a button:</p>
-<a href="default.asp" target="_blank">This is a link</a>
+<a href="www.google.com" target="_blank">Click Me</a>
 
 
