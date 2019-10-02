@@ -11,7 +11,7 @@
 
 <div class="container">
   
-  <button type="button" class="btn btn-primary" href="www.google.com">Primary</button>
+  <button href="www.google.com" type="button" class="btn btn-primary" >Primary</button>
        
 </div>
 
