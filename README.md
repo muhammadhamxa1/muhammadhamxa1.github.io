@@ -20,7 +20,6 @@
 </style>
 </head>
 
-<p>A link styled as a button:</p>
 <a href="www.google.com" target="_blank">Click Me</a>
 
 
